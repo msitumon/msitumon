@@ -1,6 +1,6 @@
 # ✨ About Me 😎
 
-🎓 Hi, I’m **Samiul Islam Tumon** — a Software Engineering student passionate about technology.
+🎓 Hi, I’m **Samiul Islam Tumon** — a Software Engineering student passionate about technology. <br>
 💻 Currently learning **C** and **Python** programming.
 🛠️ Building small projects and strengthening my programming fundamentals.
 🌱 Focused on improving problem-solving skills and core concepts.
