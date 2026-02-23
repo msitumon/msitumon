@@ -10,4 +10,4 @@
 
 ## 💻 Skills, Technologies & Tools
 
-[!(https://skillicons.dev/icons?i=c,py,apple,github,gmail,html,instagram,linkedin,vscode,windows&perline=6)](https://github.com/msitumon)
+[![](https://skillicons.dev/icons?i=c,py,apple,github,gmail,html,instagram,linkedin,vscode,windows&perline=6)](https://github.com/msitumon)
