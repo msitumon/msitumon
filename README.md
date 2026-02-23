@@ -9,4 +9,4 @@
 
 
 ## 💻 Skills, Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]([https://skillicons.dev](https://github.com/msitumon))
+[![My Skills](https://skillicons.dev/icons?i=c,py,apple,github,gmail,html,instagram,linkedin,vscode,windows&perline=6)](https://github.com/msitumon)
