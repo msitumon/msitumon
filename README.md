@@ -9,4 +9,5 @@
 
 
 ## 💻 Skills, Technologies & Tools
-![](https://skillicons.dev/icons?i=c,py,apple,github,gmail,html,instagram,linkedin,vscode,windows,&perline=6,&perline=10)
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,apple,github,gmail,html,instagram,linkedin,vscode,windows&perline=3)](https://skillicons.dev)
